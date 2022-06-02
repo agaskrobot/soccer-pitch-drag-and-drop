@@ -1,0 +1,21 @@
+.container {
+  height: 750px;
+  display: flex;
+  gap: 30px;
+}
+
+.board {
+  width: 100vw;
+  max-width: 550px;
+  height: 100%;
+}
+
+.subsCol {
+  height: 100%;
+}
+
+.select {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}

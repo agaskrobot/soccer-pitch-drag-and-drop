@@ -1,0 +1,97 @@
+.container {
+  height: 105px;
+  width: 130px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.jersey {
+  height: 100%;
+  width: 100%;
+}
+
+.jerseyWrapper {
+  height: 50px;
+  width: 40px;
+  position: relative;
+  margin-top: auto;
+  transform: translateY(5px);
+}
+
+.jerseyNumber {
+  position: absolute;
+  font-size: 0.825rem;
+  color: var(--light);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+}
+
+.circle {
+  border: 1px solid black;
+  height: 18px;
+  width: 18px;
+  border-radius: 100%;
+  background-color: green;
+  position: absolute;
+  left: 5px;
+}
+
+.playerPosStats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #272d33;
+  border-radius: 5px;
+  padding: 5px 10px;
+  position: relative;
+}
+
+.position {
+  color: var(--light);
+  font-size: 14px;
+  margin-left: 5px;
+}
+
+.playerInfo {
+  background-color: #044e42;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.playerPersonalInfo {
+  display: flex;
+  align-items: center;
+  color: var(--light);
+  font-size: 12px;
+  text-align: center;
+  justify-content: center;
+  padding: 5px 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.playerName {
+  opacity: 0.8;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 30px;
+  white-space: nowrap;
+  transform: translateX(2px);
+}
+
+.profile {
+  height: 15px;
+  width: 15px;
+  position: absolute;
+  left: 5px;
+  margin: 0;
+  fill: var(--light);
+  opacity: 0.7;
+}

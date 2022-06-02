@@ -1,0 +1,135 @@
+.player {
+  cursor: move;
+}
+.player_4_3_3_1 {
+  cursor: move;
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.player_4_3_3_2 {
+  cursor: move;
+  grid-column: 3;
+  grid-row: 1;
+}
+
+.player_4_3_3_3 {
+  cursor: move;
+  grid-column: 4;
+  grid-row: 1;
+}
+
+.player_4_3_3_4 {
+  cursor: move;
+  grid-column: 2;
+  grid-row: 3;
+}
+
+.player_4_3_3_5 {
+  cursor: move;
+  grid-column: 3;
+  grid-row: 3;
+}
+
+.player_4_3_3_6 {
+  cursor: move;
+  grid-column: 4;
+  grid-row: 3;
+}
+
+.player_4_3_3_7 {
+  cursor: move;
+  grid-column: 1;
+  grid-row: 5;
+}
+
+.player_4_3_3_8 {
+  cursor: move;
+  grid-column: 2;
+  grid-row: 5;
+}
+
+.player_4_3_3_9 {
+  cursor: move;
+  grid-column: 4;
+  grid-row: 5;
+}
+
+.player_4_3_3_10 {
+  cursor: move;
+  grid-column: 5;
+  grid-row: 5;
+}
+
+.player_4_3_3_11 {
+  cursor: move;
+  grid-column: 3;
+  grid-row: 7;
+}
+
+.player_4_2_3_1_1 {
+  cursor: move;
+  grid-column: 3;
+  grid-row: 1;
+}
+
+.player_4_2_3_1_2 {
+  cursor: move;
+  grid-column: 1;
+  grid-row: 2;
+}
+
+.player_4_2_3_1_3 {
+  cursor: move;
+  grid-column: 3;
+  grid-row: 2;
+}
+
+.player_4_2_3_1_4 {
+  cursor: move;
+  grid-column: 5;
+  grid-row: 2;
+}
+
+.player_4_2_3_1_5 {
+  cursor: move;
+  grid-column: 2;
+  grid-row: 4;
+}
+
+.player_4_2_3_1_6 {
+  cursor: move;
+  grid-column: 4;
+  grid-row: 4;
+}
+
+.player_4_2_3_1_7 {
+  cursor: move;
+  grid-column: 1;
+  grid-row: 6;
+}
+
+.player_4_2_3_1_8 {
+  cursor: move;
+  grid-column: 2;
+  grid-row: 6;
+}
+
+.player_4_2_3_1_9 {
+  cursor: move;
+  grid-column: 4;
+  grid-row: 6;
+}
+
+.player_4_2_3_1_10 {
+  cursor: move;
+  grid-column: 5;
+  grid-row: 6;
+}
+
+.player_4_2_3_1_11 {
+  cursor: move;
+  grid-column: 3;
+  grid-row: 7;
+}
+
