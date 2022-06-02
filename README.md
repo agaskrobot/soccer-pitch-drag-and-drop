@@ -1,4 +1,6 @@
 # Soccer pitch drag and drop
+![image](https://user-images.githubusercontent.com/11446164/171700609-84b1afca-882b-4a3b-8b01-5f7ca245e103.png)
+
 
 ## Setup
 
